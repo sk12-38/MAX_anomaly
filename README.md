@@ -27,7 +27,7 @@ Investors tend to prefer lottery-like stocks with extreme upside potential. This
 - `reports/reports/Team_02 운용보고서 (26년 01월)pdf`: monthly operation report
 
 ## Reports
-- [Investment Proposal](./reports/Team_02_investment_proposal.pdf)
+- [Investment Proposal](./reports/reports/Team_02_투자제안서.pdf)
 - [Monthly Report 2025-11](./reports/Team_02_monthly_reports_(2025-11))
 - [Monthly Report 2025-12](./reports/Team_02_운용보고서_(2025-12).pdf)
 - [Monthly Report 2026-01](./reports/Team_02_운용보고서_(2026-01).pdf)
