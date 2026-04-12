@@ -27,4 +27,4 @@ Investors tend to prefer lottery-like stocks with extreme upside potential. This
 
 ## Reports
 - [Investment Proposal](./reports/investment_proposal.pdf)
-- [Monthly Report](./reports/monthly_report_2025_12.pdf)
+- [Monthly Report](./reports/Team_02 투자제안서.pdf)
