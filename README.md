@@ -21,10 +21,13 @@ Investors tend to prefer lottery-like stocks with extreme upside potential. This
 
 ## Files
 - `notebooks/Residual_MAX_FF3.ipynb`: residual-based signal construction
-- `notebooks/Index_tracking_v3.ipynb`: portfolio and tracking analysis
 - `reports/proposal.pdf`: project proposal slides
-- `reports/monthly_report_2025_12.pdf`: monthly operation report
+- `reports/reports/Team_02 운용보고서 (25년 11월)pdf`: monthly operation report
+- `reports/reports/Team_02 운용보고서 (25년 12월)pdf`: monthly operation report
+- `reports/reports/Team_02 운용보고서 (26년 01월)pdf`: monthly operation report
 
 ## Reports
-- [Investment Proposal](./reports/investment_proposal.pdf)
-- [Monthly Report](./reports/Team_02 투자제안서.pdf)
+- [Investment Proposal](./reports/Team_02 투자제안서.pdf)
+- [Monthly Report](./reports/Team_02 운용보고서 (25년 11월).pdf)
+- [Monthly Report](./reports/Team_02 운용보고서 (25년 12월).pdf)
+- [Monthly Report](./reports/Team_02 운용보고서 (26년 01월).pdf)
