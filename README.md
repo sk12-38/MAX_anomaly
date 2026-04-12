@@ -17,12 +17,12 @@ Investors tend to prefer lottery-like stocks with extreme upside potential. This
 - Rebalancing: Monthly
 - Weighting: Equal-weighted
 - Liquidity filter: bottom 10% excluded by 60-day average trading value
-- Strategy type: Long-only
+- Strategy type: Long-only, long-short
 
 ## Files
 - `notebooks/Residual_MAX_FF3.ipynb`: residual-based signal construction
-- `reports/proposal.pdf`: project proposal slides
-- `reports/reports/Team_02 운용보고서 (25년 11월)pdf`: monthly operation report
+- `reports/Team_02_investment_proposal.pdf`: project proposal slides
+- `reports/reports/Team_02_monthly_reports_(2025-11).pdf`: monthly operation report
 - `reports/reports/Team_02 운용보고서 (25년 12월)pdf`: monthly operation report
 - `reports/reports/Team_02 운용보고서 (26년 01월)pdf`: monthly operation report
 
